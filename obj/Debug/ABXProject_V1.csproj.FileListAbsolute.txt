@@ -1,0 +1,10 @@
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\bin\Debug\ABXProject_V1.exe.config
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\bin\Debug\ABXProject_V1.exe
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\bin\Debug\ABXProject_V1.pdb
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\obj\Debug\ABXProject_V1.csproj.AssemblyReference.cache
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\obj\Debug\ABXProject_V1.csproj.CoreCompileInputs.cache
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\obj\Debug\ABXProje.9ACBDBB9.Up2Date
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\obj\Debug\ABXProject_V1.exe
+C:\Users\VikasYadav\source\repos\ABXProject_V1\ABXProject_V1\obj\Debug\ABXProject_V1.pdb
